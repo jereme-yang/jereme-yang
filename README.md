@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jereme</h1>
 <h3 align="center">I'm a software engineer studying at the University of Florida</h3>
 
-- 🔭 I’m currently working on [ufcsu.com](www.ufcsu.com)
+- 🔭 I’m currently working on [a custom redis implementation](custom-redis)
 
 - 🌱 I’m currently learning more about **Spring, Elixir, and Go**
 
